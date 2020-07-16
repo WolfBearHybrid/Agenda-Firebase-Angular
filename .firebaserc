@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "crud-angularfire": {
+      "hosting": {
+        "AngularFire": [
+          "crud-angularfire"
+        ]
+      }
+    }
+  }
+}
